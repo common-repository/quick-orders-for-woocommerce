@@ -1,0 +1,97 @@
+.quickorder-head {
+    background: #f1f1f1;
+}
+
+.quickster-search input[type="search"] {
+    padding: 2px;
+}
+
+.quickster-cart-message {
+    float: left;
+    width: 100%;
+    padding: 20px 25px 10px 25px;
+    margin-bottom: 15px;
+}
+
+.quickster-cart-message p {
+    font-size: 1.2em;
+}
+
+.quickster-cart-message .left {
+    float: left;
+}
+
+.quickster-cart-message .right {
+    float: right;
+}
+
+.quickster-table .product-variations-dropdown select {
+    float: left;
+    width: 50%;
+}
+
+.quickster-table .product-variations-dropdown a.button.variation-add {
+    display: block;
+    float: left;
+    max-width: 135px;
+    margin: .5em 3px;
+}
+
+.quickster-table input.input-text.qty.text {
+    max-width: 50px;
+}
+
+/* footer action bar */
+
+.footer-action-bar {
+    display:none;
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    height: 120px;
+    width: 100%;
+}
+.inner-action-bar {
+    margin: 0px auto;
+    padding: 30px;
+}
+
+.footer-action-bar .button {
+    float:left;
+    margin-right:25px;
+}
+
+.current-cart-total {
+    float:right;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+
+@media screen and (max-width: 750px) {
+
+    .quickster-table ul.dtr-details {
+        width: 100%;
+        border-top: solid 1px;
+        border-bottom: solid 1px;
+        padding: 5px 0 5px 0 !important;
+    }
+
+    table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > td:first-child:before, table.dataTable.dtr-inline.collapsed > tbody > tr[role="row"] > th:first-child:before {
+        top: 11px;
+    }
+
+    .quickster-table .dataTables_length select, input[type="number"] {
+        background: #eee;
+    }
+
+    .quickster-table .dataTables_length {
+        display: none;
+    }
+
+    .quickster-table a.add_selection.button {
+        margin: 15px auto auto auto;
+        display: block;
+    }
+
+}

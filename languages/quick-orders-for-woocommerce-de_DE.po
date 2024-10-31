@@ -1,0 +1,390 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quickster\n"
+"POT-Creation-Date: 2018-05-27 19:36+0200\n"
+"PO-Revision-Date: 2018-05-27 19:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: quick-orders-for-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: src/admin/class-qs-admin.php:27 src/admin/class-qs-admin.php:774
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: src/admin/class-qs-admin.php:36
+msgid ""
+"Use this little tool to <b>generate your shortcode</b>. Simply fill out the "
+"fields, hit save changes and copy your shortcode. You can use it as often as "
+"you want, it <b>does not</b> influence your current shortcodes. "
+msgstr ""
+"Verwende dieses Tool um dir einen Shortcode generieren zu lassen. Wähle dazu "
+"einfach den gewünschtern Filter-Parameter aus und nutze die "
+"Autovervollständigung um die passenden Daten aus deinem Shop zu beziehen. \n"
+"Verwenden Sie dieses kleine Werkzeug, um <b> generieren Ihre Shortcode </b>. "
+"Füllen Sie einfach die Felder aus, klicken Sie auf Änderungen speichern und "
+"kopieren Sie Ihre Shortcode. Sie können es so oft verwenden, wie Sie wollen, "
+"es <b> nicht </b> Einfluss auf Ihre aktuellen Kurzwahlnummern."
+
+#: src/admin/class-qs-admin.php:37
+msgid "Shortcode Generator"
+msgstr "Shortcode Generator"
+
+#: src/admin/class-qs-admin.php:47
+msgid "Select your parameter"
+msgstr "Wähle deinen Parameter"
+
+#: src/admin/class-qs-admin.php:61
+msgid "Select product categories"
+msgstr "Wähle deine Produkt-Kategorien"
+
+#: src/admin/class-qs-admin.php:70
+msgid "Select product tags"
+msgstr "Wähle deine Produkt-Schlagwörter"
+
+#: src/admin/class-qs-admin.php:78
+msgid "Select products"
+msgstr "Wähle deine Produkte (SKU)"
+
+#: src/admin/class-qs-admin.php:87
+msgid "Copy shortcode"
+msgstr "Shortcode kopieren"
+
+#: src/admin/class-qs-admin.php:96
+msgid "Columns"
+msgstr "Spalten"
+
+#: src/admin/class-qs-admin.php:106
+msgid "Thumbnail"
+msgstr "Vorschaubild"
+
+#: src/admin/class-qs-admin.php:114 src/admin/class-qs-admin.php:151
+msgid "Activate"
+msgstr "Aktivieren"
+
+#: src/admin/class-qs-admin.php:123 src/admin/class-qs-admin.php:160
+#: src/admin/class-qs-admin.php:197 src/admin/class-qs-admin.php:251
+#: src/admin/class-qs-admin.php:289 src/admin/class-qs-admin.php:327
+#: src/admin/class-qs-admin.php:364 src/admin/class-qs-admin.php:402
+#: src/admin/class-qs-admin.php:443 src/admin/class-qs-admin.php:482
+#: src/admin/class-qs-admin.php:522 src/admin/class-qs-admin.php:561
+#: src/admin/class-qs-admin.php:600 src/admin/class-qs-admin.php:639
+msgid "Label"
+msgstr "Bezeichnung"
+
+#: src/admin/class-qs-admin.php:132 src/admin/class-qs-admin.php:169
+#: src/admin/class-qs-admin.php:206 src/admin/class-qs-admin.php:260
+#: src/admin/class-qs-admin.php:298 src/admin/class-qs-admin.php:336
+#: src/admin/class-qs-admin.php:373 src/admin/class-qs-admin.php:411
+#: src/admin/class-qs-admin.php:452 src/admin/class-qs-admin.php:491
+#: src/admin/class-qs-admin.php:531 src/admin/class-qs-admin.php:570
+#: src/admin/class-qs-admin.php:609 src/admin/class-qs-admin.php:648
+msgid "Position"
+msgstr "Position"
+
+#: src/admin/class-qs-admin.php:143
+msgid "Title"
+msgstr "Titel"
+
+#: src/admin/class-qs-admin.php:180
+msgid "Price"
+msgstr "Preis"
+
+#: src/admin/class-qs-admin.php:188
+msgid "Activate Price"
+msgstr "Preis aktivieren"
+
+#: src/admin/class-qs-admin.php:217
+msgid "Activate tax display"
+msgstr "Steueranzeige aktivieren"
+
+#: src/admin/class-qs-admin.php:233
+msgid "Product Category"
+msgstr "Produkt-Kategorie"
+
+#: src/admin/class-qs-admin.php:242
+msgid "Activate Product Category"
+msgstr "Produkt-Kategorie aktivieren"
+
+#: src/admin/class-qs-admin.php:271
+msgid "Product Tag"
+msgstr "Produkt-Schlagwort"
+
+#: src/admin/class-qs-admin.php:280
+msgid "Activate Product Tag"
+msgstr "Produkt-Schlagwort aktivieren"
+
+#: src/admin/class-qs-admin.php:309
+msgid "SKU"
+msgstr "Artikelnummer"
+
+#: src/admin/class-qs-admin.php:318
+msgid "Activate SKU"
+msgstr "Artikelnummer aktivieren"
+
+#: src/admin/class-qs-admin.php:347
+msgid "Stock"
+msgstr "Lagerbestand"
+
+#: src/admin/class-qs-admin.php:355
+msgid "Activate Stock"
+msgstr "Lagerbestand aktivieren"
+
+#: src/admin/class-qs-admin.php:384
+msgid "Total Sales"
+msgstr "Gesamte Verkäufe"
+
+#: src/admin/class-qs-admin.php:392
+msgid "Activate Total Sales"
+msgstr "Gesamte Verkäufe aktivieren"
+
+#: src/admin/class-qs-admin.php:425
+msgid "Price per Unit"
+msgstr "Preis pro Einheit"
+
+#: src/admin/class-qs-admin.php:433
+msgid "Activate Price per Unit"
+msgstr "Preis pro Einheit aktivieren"
+
+#: src/admin/class-qs-admin.php:464
+msgid "Average Rating"
+msgstr "Durchschnittliche Bewertung"
+
+#: src/admin/class-qs-admin.php:472
+msgid "Activate Average Rating"
+msgstr "Durchschnittliche Bewertung aktivieren"
+
+#: src/admin/class-qs-admin.php:503
+msgid "Description"
+msgstr "Produktbeschreibung"
+
+#: src/admin/class-qs-admin.php:512
+msgid "Activate Description"
+msgstr "Produktbeschreibung aktivieren"
+
+#: src/admin/class-qs-admin.php:542
+msgid "Add to Cart"
+msgstr "Zum Warenkorb hinzufügen"
+
+#: src/admin/class-qs-admin.php:551
+msgid "Activate Single Add to Cart"
+msgstr "Zum Warenkorb hinzufügen aktivieren"
+
+#: src/admin/class-qs-admin.php:581
+msgid "Quantity"
+msgstr "Menge"
+
+#: src/admin/class-qs-admin.php:590
+msgid "Activate Quantity"
+msgstr "Menge aktivieren"
+
+#: src/admin/class-qs-admin.php:620 src/public/class-qs-table.php:183
+msgid "Add selection to cart"
+msgstr "Auswahl zum Warenkorb hinzufügen"
+
+#: src/admin/class-qs-admin.php:629
+msgid "Activate Add selection to cart"
+msgstr "Auswahl zum Warenkorb hinzufügen aktivieren"
+
+#: src/admin/class-qs-admin.php:657 src/class-qs-activation.php:20
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: src/admin/class-qs-admin.php:666
+msgid "Exclude Products with no stock"
+msgstr "Nicht vorrätige Produkte ausschließen"
+
+#: src/admin/class-qs-admin.php:674
+msgid "Exclude Products with no price"
+msgstr "Kostenlose Produkte ausschließen"
+
+#: src/admin/class-qs-admin.php:682
+msgid "Infinity Scroll"
+msgstr "Unendliches Scrollen"
+
+#: src/admin/class-qs-admin.php:690
+msgid "Replace Pagination with Infinity Scroll"
+msgstr "Paginierung mit Unendliches Scrollen ersetzen"
+
+#: src/admin/class-qs-admin.php:700
+msgid "Container height in px"
+msgstr "Container-Höhe in Pixeln"
+
+#: src/admin/class-qs-admin.php:709
+msgid "Custom cart message"
+msgstr "Benutzerdefinierte Warenkorb-Bestätigungsmeldung"
+
+#: src/admin/class-qs-admin.php:717
+msgid "Activate Cart message"
+msgstr "Warenkorb-Bestätigungsmeldung aktivieren"
+
+#: src/admin/class-qs-admin.php:726
+msgid "When to use:"
+msgstr "Wann benutzen:"
+
+#: src/admin/class-qs-admin.php:727
+msgid ""
+"Use this option if your theme dont support any kind of ajax display when a "
+"product added to cart."
+msgstr ""
+"Verwende diese Option, wenn dein Theme keinen AJAX-Warenkorb unterstützt."
+
+#: src/admin/class-qs-admin.php:736
+msgid "Cart Message"
+msgstr "Warenkorb-Bestätigungsmeldung"
+
+#: src/admin/class-qs-admin.php:745
+msgid "Cart message background color"
+msgstr "Hintergrundfarbe der Meldung"
+
+#: src/admin/class-qs-admin.php:746 src/admin/class-qs-admin.php:756
+msgid "#5F4B8B"
+msgstr ""
+
+#: src/admin/class-qs-admin.php:755
+msgid "Cart message font color"
+msgstr "Schriftfarbe der Meldung"
+
+#: src/admin/class-qs-admin.php:766
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: src/admin/class-qs-admin.php:775
+msgid "To generate a product table on your page use the shortcode"
+msgstr "Verwende den Shortcode um eine Produkttabelle ausgeben zu lassen"
+
+#: src/admin/class-qs-admin.php:783
+msgid "Parameter"
+msgstr "Parameter"
+
+#: src/admin/class-qs-admin.php:784
+msgid ""
+"You can add the following parameters to your shortcode: <b>product_cat, "
+"product_tag, sku</b>. You can add this parameters to your shortcode like so:"
+msgstr ""
+"Du kannst folgende Parameter zu deinem Shortcode hinzufügen: <b> "
+"product_cat, product_tag, SKU </b>. Du kannst diese Parameter wie folgt "
+"hinzufügen:"
+
+#: src/admin/class-qs-admin.php:792
+msgid "Multiple parameter values"
+msgstr "Mehrere Parameterwerte"
+
+#: src/admin/class-qs-admin.php:793
+msgid "You can add multiple parameter values like so:"
+msgstr "Du kannst mehrere Parameterwerte so hinzufügen:"
+
+#: src/admin/class-qs-admin.php:802
+msgid "Support"
+msgstr "Support"
+
+#: src/admin/class-qs-admin.php:803
+msgid ""
+"The only way to get support for the free version of quickster is the "
+"official wordpress.org forum"
+msgstr ""
+"Der einzige Support-Weg für die kostenlose Version ist das offizielle "
+"wordpress.org Support-Forum."
+
+#: src/admin/class-qs-settings.php:720
+msgid "Choose File"
+msgstr "Datei wählen"
+
+#: src/admin/class-qs-settings.php:741
+msgid "Choose Image"
+msgstr "Bild auswählen"
+
+#. Plugin Name of the plugin/theme
+#: src/admin/class-qs-settings.php:835 src/admin/class-qs-settings.php:836
+msgid "Quickster"
+msgstr ""
+
+#: src/class-qs-activation.php:20
+msgid "View Quickster settings"
+msgstr "Quickster Einstellungen anzeigen"
+
+#: src/class-qs-activation.php:42
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a PHP version greater "
+"than %1$s. Your PHP version can be updated by your hosting company."
+msgstr ""
+"Dieses Plugin kann nicht aktiviert werden, da mindestens eine PHP Version "
+"von %1$s vorausgesetzt wird. Die PHP-Version kann von deinem Hoster "
+"angepasst werden."
+
+#: src/class-qs-activation.php:45 src/class-qs-activation.php:57
+#: src/class-qs-activation.php:69
+msgid "go back"
+msgstr "gehe zurück"
+
+#: src/class-qs-activation.php:54
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version "
+"greater than %1$s. Please go to Dashboard &#9656; Updates to gran the latest "
+"version of WordPress ."
+msgstr ""
+"Dieses Plugin  kann nicht aktiviert werden, da es WordPress mindestens in "
+"der Version %1$s voraussetzt. Bitte gehe in dein Dashboard und führe ein "
+"Update deiner Installation durch."
+
+#: src/class-qs-activation.php:66
+msgid ""
+"This plugin can not be activated because it requires a active version of the "
+"WooCommerce plugin. Please go to Plugins and install WooCommerce."
+msgstr ""
+"Dieses Plugin kann nicht aktiviert werden, da keine aktive Installation von "
+"WooCommerce vorhanden ist. Bitte installiere das WooCommerce-Plugin um "
+"fortzufahren."
+
+#: src/public/class-qs-table.php:307
+#, php-format
+msgid "Plus %s"
+msgstr "Zzgl. %s"
+
+#: src/public/class-qs-table.php:310
+#, php-format
+msgid "Includes %s"
+msgstr "Enthält %s"
+
+#: src/public/class-qs-table.php:313
+msgid "VAT"
+msgstr "MwSt."
+
+#: src/public/class-qs-table.php:338
+msgid "Choose a variation"
+msgstr "Wähle eine Variante"
+
+#: src/public/class-qs-table.php:359 src/public/class-qs-table.php:368
+msgid "Add to cart"
+msgstr "Zum Warenkorb hinzufügen"
+
+#: src/public/class-qs-table.php:405 src/public/class-qs-table.php:408
+msgid "per"
+msgstr "je"
+
+#. Description of the plugin/theme
+msgid ""
+"Create flexible and modern Product Tables and Bul Order Forms for "
+"WooCommerce."
+msgstr ""
+"Erstellen Sie flexible und moderne Produkttabellen und Bestellformulare für "
+"WooCommerce."
+
+#. Author of the plugin/theme
+msgid "patrickposner"
+msgstr ""
